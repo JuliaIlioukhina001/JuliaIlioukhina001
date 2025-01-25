@@ -1,4 +1,4 @@
-# Julia Ilioukhina
+# Welcome! 🥰
 
 ## A Bit About Me...
 - SWE intern at Faire, a late-stage YC backed tech startup
