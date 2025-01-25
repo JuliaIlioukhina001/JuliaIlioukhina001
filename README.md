@@ -1,6 +1,6 @@
-## Julia Ilioukhina
+# Julia Ilioukhina
 
-# A Bit About Me...
+## A Bit About Me...
 - SWE intern at Faire, a late-stage YC backed tech startup
 - Prev @ Johnson & Johnson as a backend & data engineering intern
 - 10+ hackathons (notably HackMIT and Hack the North), 5X Winner
