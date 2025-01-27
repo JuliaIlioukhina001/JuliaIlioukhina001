@@ -10,5 +10,5 @@
 - Female in Tech Conferences: OpenAI Leadership Exchange, Grace Hopper, Harvard WeCode
 
 <div align="center">
-  <img src="image-removebg-preview.png" alt="Gold Glitter" width="400">
+  <img src="image-removebg-preview.png" alt="Gold Glitter" style="margin: 0; padding: 0; "width="400">
 </div>
