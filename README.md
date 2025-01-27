@@ -9,6 +9,3 @@
 - Conducting research on counterfactual regret minimization algorithms
 - Female in Tech Conferences: OpenAI Leadership Exchange, Grace Hopper, Harvard WeCode
 
-<div align="center">
-  <img src="image-removebg-preview.png" alt="Gold Glitter" style="margin: 0; padding: 0; "width="400">
-</div>
