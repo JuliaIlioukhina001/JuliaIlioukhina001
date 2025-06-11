@@ -1,7 +1,8 @@
 # Welcome!
 
 ## A Bit About Me...
-- SWE intern at Faire, a late-stage YC backed tech startup
+- Incoming SWE intern at Rundoo Inc, a Series A SaaS startup
+- Prev @ Faire, a late-stage YC startup, as a SWE intern
 - Prev @ Johnson & Johnson as a backend & data engineering intern
 - 10+ hackathons, 5x winner
 - Quant firm programs: SIG Discovery, Citadel Boundless, Jane Street WiSE + WiSE Reunion
