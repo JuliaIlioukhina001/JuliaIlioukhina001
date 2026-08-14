@@ -21,13 +21,15 @@
 - retired hacker (10+, 6x winner)
 
 <p>
-  <img src="./julia.png" width="50" />
+  <img src="./julia.png" width="40" />
   &nbsp;&nbsp;&nbsp;
-  <img src="./julia.png" width="50" />
+  <img src="./julia.png" width="40" />
   &nbsp;&nbsp;&nbsp;
-  <img src="./julia.png" width="50" />
+  <img src="./julia.png" width="40" />
   &nbsp;&nbsp;&nbsp;
-  <img src="./julia.png" width="50" />
+  <img src="./julia.png" width="40" />
   &nbsp;&nbsp;&nbsp;
-  <img src="./julia.png" width="50" />
+  <img src="./julia.png" width="40" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./julia.png" width="40" />
 </p>
