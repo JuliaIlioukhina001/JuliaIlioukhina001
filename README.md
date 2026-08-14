@@ -1,8 +1,8 @@
 <img src="./julia.png" width="50" />
 
-hey im julia, a 21-year old dev studying software eng @ waterloo
+### hey im julia, a 21-year old dev studying software eng @ waterloo
 
-I love intensity, creativity, & passionate people
+### I love intensity, creativity, & passionate people
 
 ![Ёжик](./Ёжик.jpg)
 
