@@ -1,6 +1,6 @@
 <p>
-  <img src="./julia.png" width="150" />
-  <img src="./Ёжик.jpg" width="150" />
+  <img src="./Ёжик.jpg" width="200" />
+  <img src="./julia.png" width="50" />
 </p>
 
 ### hey im julia, a 21-year old dev studying software eng @ waterloo
