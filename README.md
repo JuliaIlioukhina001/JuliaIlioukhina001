@@ -14,13 +14,11 @@
 - **faire |** late-stage YC, product discovery, latency
 - **j&j |** data ingestion frameworks, ml preprocessing
 
-### htn organizer
-
-- sponsorships (record $x, xxx, xxx raise 🤭), VC involvement lead
-- side quests: ceremonies MC + script, decor squad
-
 ### more:
 
+- htn organizer
+  - sponsorships (record $x, xxx, xxx raise 🤭), VC involvement lead
+  - side quests: ceremonies MC + script, decor squad
 - jane street insight, jane street wise, sig discovery
 - former team canada gymnast, semi comp frisbee, occasional runner
 - aws cloud club founder (grew it to 400 members)
