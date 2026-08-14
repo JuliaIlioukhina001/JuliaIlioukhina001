@@ -1,12 +1,22 @@
-# Welcome!
+<img src="./julia.png" width="60" />
 
-## A Bit About Me...
-[Visit my website](https://juliailio.com)
-- SWE intern at Rundoo Inc, an online POS startup in the Bay Area
-- Prev @ Faire, a late-stage YC marketplace startup, as a SWE intern
-- Prev @ Johnson & Johnson as a backend & data engineering intern
-- 10+ hackathons, 6x winner
-- Quant firm programs: Jane Street Insight + WiSE + WiSE Reunion, Citadel Boundless, SIG Discovery
-- AWS Cloud Club founder & former president, 400+ members
-- Notable Conferences: OpenAI Leadership Exchange, Grace Hopper, Harvard WeCode
+hey im julia, a 21-year old dev studying software eng @ waterloo
 
+I love intensity, creativity, & passionate people
+
+![Ёжик](./Ёжик.jpg)
+
+[juliailio.com](https://juliailio.com)
+
+- interned @:
+    - **notion |** infra, distributed data model inspired by TAO
+    - **rundoo |** engineer #10, AI report builder, ledger (payment systems)
+    - **faire |** late-stage YC, product discovery, latency
+    - **j&j |** data ingestion frameworks, ml preprocessing
+- htn organizer
+    - sponsorships (record $x, xxx, xxx raise 🤭), VC involvement lead
+    - side quests: ceremonies MC + script, decor squad
+- jane street insight, jane street wise, sig discovery
+- former team canada gymnast, semi comp frisbee, occasional runner
+- aws cloud club founder (grew it to 400 members)
+- retired hacker (10+, 6x winner)
