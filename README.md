@@ -1,5 +1,6 @@
 
 <img src="./Ёжик.jpg" width="400" />
+
 ### hey im julia, a 21-year old dev studying software eng @ waterloo
 
 ### I love intensity, creativity, & passionate people
@@ -18,8 +19,15 @@
 - former team canada gymnast, semi comp frisbee, occasional runner
 - aws cloud club founder (grew it to 400 members)
 - retired hacker (10+, 6x winner)
+
 <p>
   <img src="./julia.png" width="50" />
+  &nbsp;&nbsp;&nbsp;
   <img src="./julia.png" width="50" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./julia.png" width="50" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./julia.png" width="50" />
+  &nbsp;&nbsp;&nbsp;
   <img src="./julia.png" width="50" />
 </p>
