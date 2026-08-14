@@ -1,4 +1,4 @@
-<img src="./julia.png" width="100" />
+<img src="./julia.png" width="50" />
 
 hey im julia, a 21-year old dev studying software eng @ waterloo
 
