@@ -1,5 +1,5 @@
 
-<img src="./Ёжик.jpg" width="400" />
+<img src="./Ёжик.jpg" width="350" />
 
 ### hey im julia, a 21-year old dev studying software eng @ waterloo
 
