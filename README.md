@@ -4,7 +4,7 @@
 
 ### I love intensity, creativity, & passionate people
 
-![Ёжик](./Ёжик.jpg)
+<img src="./Ёжик.jpg" width="100" />
 
 [juliailio.com](https://juliailio.com)
 
